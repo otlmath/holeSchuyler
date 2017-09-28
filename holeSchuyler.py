@@ -166,7 +166,7 @@ def room11():
 
         You are basically as good as dead. The only way out will be to
 
-        defeat the evil ____ who resides in the deepest of this cave"''')
+        defeat the evil witch who resides in the deepest of this cave"''')
 
         print("The note magically disappears!")
 
